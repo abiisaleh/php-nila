@@ -1,6 +1,5 @@
 <?php
-  $nama = 'nila';
-  $isi = 'tugas';
+$nama = 'nila';
+$isi = 'tugas';
 
-  echo $nama." punya ".$isi;
-?>
+echo $nama . " sendang mengerjakan " . $isi;
